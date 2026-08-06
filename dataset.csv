@@ -1,0 +1,852 @@
+sentence,word,label
+Aaj mera mood nahi hai for anything,Aaj,URD
+Aaj mera mood nahi hai for anything,mera,URD
+Aaj mera mood nahi hai for anything,mood,ENG
+Aaj mera mood nahi hai for anything,nahi,URD
+Aaj mera mood nahi hai for anything,hai,URD
+Aaj mera mood nahi hai for anything,for,ENG
+Aaj mera mood nahi hai for anything,anything,ENG
+Yaar kal presentation hai still not ready,Yaar,URD
+Yaar kal presentation hai still not ready,kal,URD
+Yaar kal presentation hai still not ready,presentation,ENG
+Yaar kal presentation hai still not ready,hai,URD
+Yaar kal presentation hai still not ready,still,ENG
+Yaar kal presentation hai still not ready,not,ENG
+Yaar kal presentation hai still not ready,ready,ENG
+Tum online kyun nahi thay yesterday,Tum,URD
+Tum online kyun nahi thay yesterday,online,ENG
+Tum online kyun nahi thay yesterday,kyun,URD
+Tum online kyun nahi thay yesterday,nahi,URD
+Tum online kyun nahi thay yesterday,thay,URD
+Tum online kyun nahi thay yesterday,yesterday,ENG
+Bhai assignment submit kar di I am relieved,Bhai,URD
+Bhai assignment submit kar di I am relieved,assignment,ENG
+Bhai assignment submit kar di I am relieved,submit,ENG
+Bhai assignment submit kar di I am relieved,kar,URD
+Bhai assignment submit kar di I am relieved,di,URD
+Bhai assignment submit kar di I am relieved,I,ENG
+Bhai assignment submit kar di I am relieved,am,ENG
+Bhai assignment submit kar di I am relieved,relieved,ENG
+Kal office bohot hectic tha honestly,Kal,URD
+Kal office bohot hectic tha honestly,office,ENG
+Kal office bohot hectic tha honestly,bohot,URD
+Kal office bohot hectic tha honestly,hectic,ENG
+Kal office bohot hectic tha honestly,tha,URD
+Kal office bohot hectic tha honestly,honestly,ENG
+Main ghar pohanch gaya finally,Main,URD
+Main ghar pohanch gaya finally,ghar,URD
+Main ghar pohanch gaya finally,pohanch,URD
+Main ghar pohanch gaya finally,gaya,URD
+Main ghar pohanch gaya finally,finally,ENG
+Aaj weather bohot nice hai,Aaj,URD
+Aaj weather bohot nice hai,weather,ENG
+Aaj weather bohot nice hai,bohot,URD
+Aaj weather bohot nice hai,nice,ENG
+Aaj weather bohot nice hai,hai,URD
+Tum class miss kar gaye again,Tum,URD
+Tum class miss kar gaye again,class,ENG
+Tum class miss kar gaye again,miss,ENG
+Tum class miss kar gaye again,kar,URD
+Tum class miss kar gaye again,gaye,URD
+Tum class miss kar gaye again,again,ENG
+Mujhe coffee chahiye right now,Mujhe,URD
+Mujhe coffee chahiye right now,coffee,ENG
+Mujhe coffee chahiye right now,chahiye,URD
+Mujhe coffee chahiye right now,right,ENG
+Mujhe coffee chahiye right now,now,ENG
+Yeh movie bohot interesting thi,Yeh,URD
+Yeh movie bohot interesting thi,movie,ENG
+Yeh movie bohot interesting thi,bohot,URD
+Yeh movie bohot interesting thi,interesting,ENG
+Yeh movie bohot interesting thi,thi,URD
+Kal meeting cancel ho gayi,Kal,URD
+Kal meeting cancel ho gayi,meeting,ENG
+Kal meeting cancel ho gayi,cancel,ENG
+Kal meeting cancel ho gayi,ho,URD
+Kal meeting cancel ho gayi,gayi,URD
+Main abhi busy hoon call later,Main,URD
+Main abhi busy hoon call later,abhi,URD
+Main abhi busy hoon call later,busy,ENG
+Main abhi busy hoon call later,hoon,URD
+Main abhi busy hoon call later,call,ENG
+Main abhi busy hoon call later,later,ENG
+Tumhara idea really amazing hai,Tumhara,URD
+Tumhara idea really amazing hai,idea,ENG
+Tumhara idea really amazing hai,really,ENG
+Tumhara idea really amazing hai,amazing,ENG
+Tumhara idea really amazing hai,hai,URD
+Yaar traffic bohot terrible tha,Yaar,URD
+Yaar traffic bohot terrible tha,traffic,ENG
+Yaar traffic bohot terrible tha,bohot,URD
+Yaar traffic bohot terrible tha,terrible,ENG
+Yaar traffic bohot terrible tha,tha,URD
+Lunch ke baad let's study,Lunch,ENG
+Lunch ke baad let's study,ke,URD
+Lunch ke baad let's study,baad,URD
+Lunch ke baad let's study,let's,ENG
+Lunch ke baad let's study,study,ENG
+Mera phone battery low hai,Mera,URD
+Mera phone battery low hai,phone,ENG
+Mera phone battery low hai,battery,ENG
+Mera phone battery low hai,low,ENG
+Mera phone battery low hai,hai,URD
+Tum seriously bohot funny ho,Tum,URD
+Tum seriously bohot funny ho,seriously,ENG
+Tum seriously bohot funny ho,bohot,URD
+Tum seriously bohot funny ho,funny,ENG
+Tum seriously bohot funny ho,ho,URD
+Main project finish kar raha hoon,Main,URD
+Main project finish kar raha hoon,project,ENG
+Main project finish kar raha hoon,finish,ENG
+Main project finish kar raha hoon,kar,URD
+Main project finish kar raha hoon,raha,URD
+Main project finish kar raha hoon,hoon,URD
+Aaj lecture bohot informative tha,Aaj,URD
+Aaj lecture bohot informative tha,lecture,ENG
+Aaj lecture bohot informative tha,bohot,URD
+Aaj lecture bohot informative tha,informative,ENG
+Aaj lecture bohot informative tha,tha,URD
+Kal shopping ka plan hai,Kal,URD
+Kal shopping ka plan hai,shopping,ENG
+Kal shopping ka plan hai,ka,URD
+Kal shopping ka plan hai,plan,ENG
+Kal shopping ka plan hai,hai,URD
+Tum meri help kar sakte ho,Tum,URD
+Tum meri help kar sakte ho,meri,URD
+Tum meri help kar sakte ho,help,ENG
+Tum meri help kar sakte ho,kar,URD
+Tum meri help kar sakte ho,sakte,URD
+Tum meri help kar sakte ho,ho,URD
+Main exam ke liye prepared hoon,Main,URD
+Main exam ke liye prepared hoon,exam,ENG
+Main exam ke liye prepared hoon,ke,URD
+Main exam ke liye prepared hoon,liye,URD
+Main exam ke liye prepared hoon,prepared,ENG
+Main exam ke liye prepared hoon,hoon,URD
+Yeh task complete karna easy hai,Yeh,URD
+Yeh task complete karna easy hai,task,ENG
+Yeh task complete karna easy hai,complete,ENG
+Yeh task complete karna easy hai,karna,URD
+Yeh task complete karna easy hai,easy,ENG
+Yeh task complete karna easy hai,hai,URD
+Bhai game bohot addictive hai,Bhai,URD
+Bhai game bohot addictive hai,game,ENG
+Bhai game bohot addictive hai,bohot,URD
+Bhai game bohot addictive hai,addictive,ENG
+Bhai game bohot addictive hai,hai,URD
+Main library ja raha hoon now,Main,URD
+Main library ja raha hoon now,library,ENG
+Main library ja raha hoon now,ja,URD
+Main library ja raha hoon now,raha,URD
+Main library ja raha hoon now,hoon,URD
+Main library ja raha hoon now,now,ENG
+Tumhara result finally aa gaya,Tumhara,URD
+Tumhara result finally aa gaya,result,ENG
+Tumhara result finally aa gaya,finally,ENG
+Tumhara result finally aa gaya,aa,URD
+Tumhara result finally aa gaya,gaya,URD
+Ab sab kuch under control hai,Ab,URD
+Ab sab kuch under control hai,sab,URD
+Ab sab kuch under control hai,kuch,URD
+Ab sab kuch under control hai,under,ENG
+Ab sab kuch under control hai,control,ENG
+Ab sab kuch under control hai,hai,URD
+Main bohot excited hoon today,Main,URD
+Main bohot excited hoon today,bohot,URD
+Main bohot excited hoon today,excited,ENG
+Main bohot excited hoon today,hoon,URD
+Main bohot excited hoon today,today,ENG
+Kal deadline hai don't forget,Kal,URD
+Kal deadline hai don't forget,deadline,ENG
+Kal deadline hai don't forget,hai,URD
+Kal deadline hai don't forget,don't,ENG
+Kal deadline hai don't forget,forget,ENG
+Yeh idea actually bohot useful hai,Yeh,URD
+Yeh idea actually bohot useful hai,idea,ENG
+Yeh idea actually bohot useful hai,actually,ENG
+Yeh idea actually bohot useful hai,bohot,URD
+Yeh idea actually bohot useful hai,useful,ENG
+Yeh idea actually bohot useful hai,hai,URD
+Mujhe ye assignment complete karni hai today,Mujhe,URD
+Mujhe ye assignment complete karni hai today,ye,URD
+Mujhe ye assignment complete karni hai today,assignment,ENG
+Mujhe ye assignment complete karni hai today,complete,ENG
+Mujhe ye assignment complete karni hai today,karni,URD
+Mujhe ye assignment complete karni hai today,hai,URD
+Mujhe ye assignment complete karni hai today,today,ENG
+Bhai laptop charge nahi ho raha,Bhai,URD
+Bhai laptop charge nahi ho raha,laptop,ENG
+Bhai laptop charge nahi ho raha,charge,ENG
+Bhai laptop charge nahi ho raha,nahi,URD
+Bhai laptop charge nahi ho raha,ho,URD
+Bhai laptop charge nahi ho raha,raha,URD
+Kal quiz hai be prepared,Kal,URD
+Kal quiz hai be prepared,quiz,ENG
+Kal quiz hai be prepared,hai,URD
+Kal quiz hai be prepared,be,ENG
+Kal quiz hai be prepared,prepared,ENG
+Main office late pohancha because traffic,Main,URD
+Main office late pohancha because traffic,office,ENG
+Main office late pohancha because traffic,late,ENG
+Main office late pohancha because traffic,pohancha,URD
+Main office late pohancha because traffic,because,ENG
+Main office late pohancha because traffic,traffic,ENG
+Aaj bohot productive day tha,Aaj,URD
+Aaj bohot productive day tha,bohot,URD
+Aaj bohot productive day tha,productive,ENG
+Aaj bohot productive day tha,day,ENG
+Aaj bohot productive day tha,tha,URD
+Tumhara message abhi receive hua,Tumhara,URD
+Tumhara message abhi receive hua,message,ENG
+Tumhara message abhi receive hua,abhi,URD
+Tumhara message abhi receive hua,receive,ENG
+Tumhara message abhi receive hua,hua,URD
+Please mujhe update bhej dena,Please,ENG
+Please mujhe update bhej dena,mujhe,URD
+Please mujhe update bhej dena,update,ENG
+Please mujhe update bhej dena,bhej,URD
+Please mujhe update bhej dena,dena,URD
+Aaj class bohot interesting thi,Aaj,URD
+Aaj class bohot interesting thi,class,ENG
+Aaj class bohot interesting thi,bohot,URD
+Aaj class bohot interesting thi,interesting,ENG
+Aaj class bohot interesting thi,thi,URD
+Main market ja raha hoon later,Main,URD
+Main market ja raha hoon later,market,ENG
+Main market ja raha hoon later,ja,URD
+Main market ja raha hoon later,raha,URD
+Main market ja raha hoon later,hoon,URD
+Main market ja raha hoon later,later,ENG
+Tum kal free ho for lunch,Tum,URD
+Tum kal free ho for lunch,kal,URD
+Tum kal free ho for lunch,free,ENG
+Tum kal free ho for lunch,ho,URD
+Tum kal free ho for lunch,for,ENG
+Tum kal free ho for lunch,lunch,ENG
+Yeh project bohot challenging hai,Yeh,URD
+Yeh project bohot challenging hai,project,ENG
+Yeh project bohot challenging hai,bohot,URD
+Yeh project bohot challenging hai,challenging,ENG
+Yeh project bohot challenging hai,hai,URD
+Mera internet bohot slow chal raha hai,Mera,URD
+Mera internet bohot slow chal raha hai,internet,ENG
+Mera internet bohot slow chal raha hai,bohot,URD
+Mera internet bohot slow chal raha hai,slow,ENG
+Mera internet bohot slow chal raha hai,chal,URD
+Mera internet bohot slow chal raha hai,raha,URD
+Mera internet bohot slow chal raha hai,hai,URD
+Tumhara idea really helpful tha,Tumhara,URD
+Tumhara idea really helpful tha,idea,ENG
+Tumhara idea really helpful tha,really,ENG
+Tumhara idea really helpful tha,helpful,ENG
+Tumhara idea really helpful tha,tha,URD
+Kal meeting attend karna please,Kal,URD
+Kal meeting attend karna please,meeting,ENG
+Kal meeting attend karna please,attend,ENG
+Kal meeting attend karna please,karna,URD
+Kal meeting attend karna please,please,ENG
+Main bohot tired hoon today,Main,URD
+Main bohot tired hoon today,bohot,URD
+Main bohot tired hoon today,tired,ENG
+Main bohot tired hoon today,hoon,URD
+Main bohot tired hoon today,today,ENG
+Yaar coffee peene chalte hain,Yaar,URD
+Yaar coffee peene chalte hain,coffee,ENG
+Yaar coffee peene chalte hain,peene,URD
+Yaar coffee peene chalte hain,chalte,URD
+Yaar coffee peene chalte hain,hain,URD
+Abhi lecture start hone wala hai,Abhi,URD
+Abhi lecture start hone wala hai,lecture,ENG
+Abhi lecture start hone wala hai,start,ENG
+Abhi lecture start hone wala hai,hone,URD
+Abhi lecture start hone wala hai,wala,URD
+Abhi lecture start hone wala hai,hai,URD
+Main homework complete kar chuka hoon,Main,URD
+Main homework complete kar chuka hoon,homework,ENG
+Main homework complete kar chuka hoon,complete,ENG
+Main homework complete kar chuka hoon,kar,URD
+Main homework complete kar chuka hoon,chuka,URD
+Main homework complete kar chuka hoon,hoon,URD
+Yeh phone bohot expensive hai,Yeh,URD
+Yeh phone bohot expensive hai,phone,ENG
+Yeh phone bohot expensive hai,bohot,URD
+Yeh phone bohot expensive hai,expensive,ENG
+Yeh phone bohot expensive hai,hai,URD
+Kal movie dekhne ka plan hai,Kal,URD
+Kal movie dekhne ka plan hai,movie,ENG
+Kal movie dekhne ka plan hai,dekhne,URD
+Kal movie dekhne ka plan hai,ka,URD
+Kal movie dekhne ka plan hai,plan,ENG
+Kal movie dekhne ka plan hai,hai,URD
+Tum assignment email kar do,Tum,URD
+Tum assignment email kar do,assignment,ENG
+Tum assignment email kar do,email,ENG
+Tum assignment email kar do,kar,URD
+Tum assignment email kar do,do,URD
+Main room clean kar raha hoon,Main,URD
+Main room clean kar raha hoon,room,ENG
+Main room clean kar raha hoon,clean,ENG
+Main room clean kar raha hoon,kar,URD
+Main room clean kar raha hoon,raha,URD
+Main room clean kar raha hoon,hoon,URD
+Please jaldi reply karna,Please,ENG
+Please jaldi reply karna,jaldi,URD
+Please jaldi reply karna,reply,ENG
+Please jaldi reply karna,karna,URD
+Aaj lunch bohot tasty tha,Aaj,URD
+Aaj lunch bohot tasty tha,lunch,ENG
+Aaj lunch bohot tasty tha,bohot,URD
+Aaj lunch bohot tasty tha,tasty,ENG
+Aaj lunch bohot tasty tha,tha,URD
+Tum online kab aoge tonight,Tum,URD
+Tum online kab aoge tonight,online,ENG
+Tum online kab aoge tonight,kab,URD
+Tum online kab aoge tonight,aoge,URD
+Tum online kab aoge tonight,tonight,ENG
+Main library mein study kar raha hoon,Main,URD
+Main library mein study kar raha hoon,library,ENG
+Main library mein study kar raha hoon,mein,URD
+Main library mein study kar raha hoon,study,ENG
+Main library mein study kar raha hoon,kar,URD
+Main library mein study kar raha hoon,raha,URD
+Main library mein study kar raha hoon,hoon,URD
+Yeh game bohot addictive nikla,Yeh,URD
+Yeh game bohot addictive nikla,game,ENG
+Yeh game bohot addictive nikla,bohot,URD
+Yeh game bohot addictive nikla,addictive,ENG
+Yeh game bohot addictive nikla,nikla,URD
+Kal office work zyada tha,Kal,URD
+Kal office work zyada tha,office,ENG
+Kal office work zyada tha,work,ENG
+Kal office work zyada tha,zyada,URD
+Kal office work zyada tha,tha,URD
+Main abhi dinner bana raha hoon,Main,URD
+Main abhi dinner bana raha hoon,abhi,URD
+Main abhi dinner bana raha hoon,dinner,ENG
+Main abhi dinner bana raha hoon,bana,URD
+Main abhi dinner bana raha hoon,raha,URD
+Main abhi dinner bana raha hoon,hoon,URD
+Tumhara presentation bohot impressive tha,Tumhara,URD
+Tumhara presentation bohot impressive tha,presentation,ENG
+Tumhara presentation bohot impressive tha,bohot,URD
+Tumhara presentation bohot impressive tha,impressive,ENG
+Tumhara presentation bohot impressive tha,tha,URD
+Aaj mera internet bohot slow hai,Aaj,URD
+Aaj mera internet bohot slow hai,mera,URD
+Aaj mera internet bohot slow hai,internet,ENG
+Aaj mera internet bohot slow hai,bohot,URD
+Aaj mera internet bohot slow hai,slow,ENG
+Aaj mera internet bohot slow hai,hai,URD
+Kal interview hai wish me luck,Kal,URD
+Kal interview hai wish me luck,interview,ENG
+Kal interview hai wish me luck,hai,URD
+Kal interview hai wish me luck,wish,ENG
+Kal interview hai wish me luck,me,ENG
+Kal interview hai wish me luck,luck,ENG
+Main abhi office mein busy hoon,Main,URD
+Main abhi office mein busy hoon,abhi,URD
+Main abhi office mein busy hoon,office,ENG
+Main abhi office mein busy hoon,mein,URD
+Main abhi office mein busy hoon,busy,ENG
+Main abhi office mein busy hoon,hoon,URD
+Yeh idea bohot creative hai,Yeh,URD
+Yeh idea bohot creative hai,idea,ENG
+Yeh idea bohot creative hai,bohot,URD
+Yeh idea bohot creative hai,creative,ENG
+Yeh idea bohot creative hai,hai,URD
+Tum assignment upload kar do,Tum,URD
+Tum assignment upload kar do,assignment,ENG
+Tum assignment upload kar do,upload,ENG
+Tum assignment upload kar do,kar,URD
+Tum assignment upload kar do,do,URD
+Aaj weather perfect hai for picnic,Aaj,URD
+Aaj weather perfect hai for picnic,weather,ENG
+Aaj weather perfect hai for picnic,perfect,ENG
+Aaj weather perfect hai for picnic,hai,URD
+Aaj weather perfect hai for picnic,for,ENG
+Aaj weather perfect hai for picnic,picnic,ENG
+Mera phone hang ho gaya,Mera,URD
+Mera phone hang ho gaya,phone,ENG
+Mera phone hang ho gaya,hang,ENG
+Mera phone hang ho gaya,ho,URD
+Mera phone hang ho gaya,gaya,URD
+Main homework complete kar raha hoon,Main,URD
+Main homework complete kar raha hoon,homework,ENG
+Main homework complete kar raha hoon,complete,ENG
+Main homework complete kar raha hoon,kar,URD
+Main homework complete kar raha hoon,raha,URD
+Main homework complete kar raha hoon,hoon,URD
+Kal shopping ke liye chalna,Kal,URD
+Kal shopping ke liye chalna,shopping,ENG
+Kal shopping ke liye chalna,ke,URD
+Kal shopping ke liye chalna,liye,URD
+Kal shopping ke liye chalna,chalna,URD
+Tum bohot talented ho honestly,Tum,URD
+Tum bohot talented ho honestly,bohot,URD
+Tum bohot talented ho honestly,talented,ENG
+Tum bohot talented ho honestly,ho,URD
+Tum bohot talented ho honestly,honestly,ENG
+Yaar project ka deadline close hai,Yaar,URD
+Yaar project ka deadline close hai,project,ENG
+Yaar project ka deadline close hai,ka,URD
+Yaar project ka deadline close hai,deadline,ENG
+Yaar project ka deadline close hai,close,ENG
+Yaar project ka deadline close hai,hai,URD
+Main lecture attend nahi kar saka,Main,URD
+Main lecture attend nahi kar saka,lecture,ENG
+Main lecture attend nahi kar saka,attend,ENG
+Main lecture attend nahi kar saka,nahi,URD
+Main lecture attend nahi kar saka,kar,URD
+Main lecture attend nahi kar saka,saka,URD
+Aaj dinner bahar karte hain,Aaj,URD
+Aaj dinner bahar karte hain,dinner,ENG
+Aaj dinner bahar karte hain,bahar,URD
+Aaj dinner bahar karte hain,karte,URD
+Aaj dinner bahar karte hain,hain,URD
+Tumhara laptop bohot fast hai,Tumhara,URD
+Tumhara laptop bohot fast hai,laptop,ENG
+Tumhara laptop bohot fast hai,bohot,URD
+Tumhara laptop bohot fast hai,fast,ENG
+Tumhara laptop bohot fast hai,hai,URD
+Kal sir ne assignment explain ki,Kal,URD
+Kal sir ne assignment explain ki,sir,ENG
+Kal sir ne assignment explain ki,ne,URD
+Kal sir ne assignment explain ki,assignment,ENG
+Kal sir ne assignment explain ki,explain,ENG
+Kal sir ne assignment explain ki,ki,URD
+Main market se groceries le aya,Main,URD
+Main market se groceries le aya,market,ENG
+Main market se groceries le aya,se,URD
+Main market se groceries le aya,groceries,ENG
+Main market se groceries le aya,le,URD
+Main market se groceries le aya,aya,URD
+Please document upload kar dena,Please,ENG
+Please document upload kar dena,document,ENG
+Please document upload kar dena,upload,ENG
+Please document upload kar dena,kar,URD
+Please document upload kar dena,dena,URD
+Aaj meeting bohot productive thi,Aaj,URD
+Aaj meeting bohot productive thi,meeting,ENG
+Aaj meeting bohot productive thi,bohot,URD
+Aaj meeting bohot productive thi,productive,ENG
+Aaj meeting bohot productive thi,thi,URD
+Tum free ho let's go,Tum,URD
+Tum free ho let's go,free,ENG
+Tum free ho let's go,ho,URD
+Tum free ho let's go,let's,ENG
+Tum free ho let's go,go,ENG
+Main movie download kar raha hoon,Main,URD
+Main movie download kar raha hoon,movie,ENG
+Main movie download kar raha hoon,download,ENG
+Main movie download kar raha hoon,kar,URD
+Main movie download kar raha hoon,raha,URD
+Main movie download kar raha hoon,hoon,URD
+Yeh coffee bohot amazing hai,Yeh,URD
+Yeh coffee bohot amazing hai,coffee,ENG
+Yeh coffee bohot amazing hai,bohot,URD
+Yeh coffee bohot amazing hai,amazing,ENG
+Yeh coffee bohot amazing hai,hai,URD
+Kal exam ke baad celebrate karenge,Kal,URD
+Kal exam ke baad celebrate karenge,exam,ENG
+Kal exam ke baad celebrate karenge,ke,URD
+Kal exam ke baad celebrate karenge,baad,URD
+Kal exam ke baad celebrate karenge,celebrate,ENG
+Kal exam ke baad celebrate karenge,karenge,URD
+Main bohot excited hoon for tomorrow,Main,URD
+Main bohot excited hoon for tomorrow,bohot,URD
+Main bohot excited hoon for tomorrow,excited,ENG
+Main bohot excited hoon for tomorrow,hoon,URD
+Main bohot excited hoon for tomorrow,for,ENG
+Main bohot excited hoon for tomorrow,tomorrow,ENG
+Tumhara result finally aa gaya,Tumhara,URD
+Tumhara result finally aa gaya,result,ENG
+Tumhara result finally aa gaya,finally,ENG
+Tumhara result finally aa gaya,aa,URD
+Tumhara result finally aa gaya,gaya,URD
+Please camera on kar lo,Please,ENG
+Please camera on kar lo,camera,ENG
+Please camera on kar lo,on,ENG
+Please camera on kar lo,kar,URD
+Please camera on kar lo,lo,URD
+Main kal office nahi aaunga,Main,URD
+Main kal office nahi aaunga,kal,URD
+Main kal office nahi aaunga,office,ENG
+Main kal office nahi aaunga,nahi,URD
+Main kal office nahi aaunga,aaunga,URD
+Yeh lecture samajhna easy tha,Yeh,URD
+Yeh lecture samajhna easy tha,lecture,ENG
+Yeh lecture samajhna easy tha,samajhna,URD
+Yeh lecture samajhna easy tha,easy,ENG
+Yeh lecture samajhna easy tha,tha,URD
+Bhai game update kab ayegi,Bhai,URD
+Bhai game update kab ayegi,game,ENG
+Bhai game update kab ayegi,update,ENG
+Bhai game update kab ayegi,kab,URD
+Bhai game update kab ayegi,ayegi,URD
+Main room clean kar chuka hoon,Main,URD
+Main room clean kar chuka hoon,room,ENG
+Main room clean kar chuka hoon,clean,ENG
+Main room clean kar chuka hoon,kar,URD
+Main room clean kar chuka hoon,chuka,URD
+Main room clean kar chuka hoon,hoon,URD
+Kal bohot important meeting hai,Kal,URD
+Kal bohot important meeting hai,bohot,URD
+Kal bohot important meeting hai,important,ENG
+Kal bohot important meeting hai,meeting,ENG
+Kal bohot important meeting hai,hai,URD
+Main kal library jaunga after class,Main,URD
+Main kal library jaunga after class,kal,URD
+Main kal library jaunga after class,library,ENG
+Main kal library jaunga after class,jaunga,URD
+Main kal library jaunga after class,after,ENG
+Main kal library jaunga after class,class,ENG
+Yaar mera charger mil nahi raha,Yaar,URD
+Yaar mera charger mil nahi raha,mera,URD
+Yaar mera charger mil nahi raha,charger,ENG
+Yaar mera charger mil nahi raha,mil,URD
+Yaar mera charger mil nahi raha,nahi,URD
+Yaar mera charger mil nahi raha,raha,URD
+Tum assignment finish kar chuke ho,Tum,URD
+Tum assignment finish kar chuke ho,assignment,ENG
+Tum assignment finish kar chuke ho,finish,ENG
+Tum assignment finish kar chuke ho,kar,URD
+Tum assignment finish kar chuke ho,chuke,URD
+Tum assignment finish kar chuke ho,ho,URD
+Aaj lecture really informative tha,Aaj,URD
+Aaj lecture really informative tha,lecture,ENG
+Aaj lecture really informative tha,really,ENG
+Aaj lecture really informative tha,informative,ENG
+Aaj lecture really informative tha,tha,URD
+Main office se ghar late aya,Main,URD
+Main office se ghar late aya,office,ENG
+Main office se ghar late aya,se,URD
+Main office se ghar late aya,ghar,URD
+Main office se ghar late aya,late,ENG
+Main office se ghar late aya,aya,URD
+Kal shopping karni hai with friends,Kal,URD
+Kal shopping karni hai with friends,shopping,ENG
+Kal shopping karni hai with friends,karni,URD
+Kal shopping karni hai with friends,hai,URD
+Kal shopping karni hai with friends,with,ENG
+Kal shopping karni hai with friends,friends,ENG
+Tum online the but reply nahi diya,Tum,URD
+Tum online the but reply nahi diya,online,ENG
+Tum online the but reply nahi diya,the,URD
+Tum online the but reply nahi diya,but,ENG
+Tum online the but reply nahi diya,reply,ENG
+Tum online the but reply nahi diya,nahi,URD
+Tum online the but reply nahi diya,diya,URD
+Please file upload kar dena today,Please,ENG
+Please file upload kar dena today,file,ENG
+Please file upload kar dena today,upload,ENG
+Please file upload kar dena today,kar,URD
+Please file upload kar dena today,dena,URD
+Please file upload kar dena today,today,ENG
+Yeh phone bohot smooth chal raha hai,Yeh,URD
+Yeh phone bohot smooth chal raha hai,phone,ENG
+Yeh phone bohot smooth chal raha hai,bohot,URD
+Yeh phone bohot smooth chal raha hai,smooth,ENG
+Yeh phone bohot smooth chal raha hai,chal,URD
+Yeh phone bohot smooth chal raha hai,raha,URD
+Yeh phone bohot smooth chal raha hai,hai,URD
+Main project complete kar ke soya,Main,URD
+Main project complete kar ke soya,project,ENG
+Main project complete kar ke soya,complete,ENG
+Main project complete kar ke soya,kar,URD
+Main project complete kar ke soya,ke,URD
+Main project complete kar ke soya,soya,URD
+Kal interview ka result ayega,Kal,URD
+Kal interview ka result ayega,interview,ENG
+Kal interview ka result ayega,ka,URD
+Kal interview ka result ayega,result,ENG
+Kal interview ka result ayega,ayega,URD
+Tum bohot confident lag rahe ho,Tum,URD
+Tum bohot confident lag rahe ho,bohot,URD
+Tum bohot confident lag rahe ho,confident,ENG
+Tum bohot confident lag rahe ho,lag,URD
+Tum bohot confident lag rahe ho,rahe,URD
+Tum bohot confident lag rahe ho,ho,URD
+Mujhe meeting join karni hai,Mujhe,URD
+Mujhe meeting join karni hai,meeting,ENG
+Mujhe meeting join karni hai,join,ENG
+Mujhe meeting join karni hai,karni,URD
+Mujhe meeting join karni hai,hai,URD
+Aaj dinner bohot delicious tha,Aaj,URD
+Aaj dinner bohot delicious tha,dinner,ENG
+Aaj dinner bohot delicious tha,bohot,URD
+Aaj dinner bohot delicious tha,delicious,ENG
+Aaj dinner bohot delicious tha,tha,URD
+Main notes revise kar raha hoon,Main,URD
+Main notes revise kar raha hoon,notes,ENG
+Main notes revise kar raha hoon,revise,ENG
+Main notes revise kar raha hoon,kar,URD
+Main notes revise kar raha hoon,raha,URD
+Main notes revise kar raha hoon,hoon,URD
+Kal office mein bohot work tha,Kal,URD
+Kal office mein bohot work tha,office,ENG
+Kal office mein bohot work tha,mein,URD
+Kal office mein bohot work tha,bohot,URD
+Kal office mein bohot work tha,work,ENG
+Kal office mein bohot work tha,tha,URD
+Please laptop restart kar lo,Please,ENG
+Please laptop restart kar lo,laptop,ENG
+Please laptop restart kar lo,restart,ENG
+Please laptop restart kar lo,kar,URD
+Please laptop restart kar lo,lo,URD
+Yeh task complete karna simple hai,Yeh,URD
+Yeh task complete karna simple hai,task,ENG
+Yeh task complete karna simple hai,complete,ENG
+Yeh task complete karna simple hai,karna,URD
+Yeh task complete karna simple hai,simple,ENG
+Yeh task complete karna simple hai,hai,URD
+Main abhi campus mein hoon,Main,URD
+Main abhi campus mein hoon,abhi,URD
+Main abhi campus mein hoon,campus,ENG
+Main abhi campus mein hoon,mein,URD
+Main abhi campus mein hoon,hoon,URD
+Tumhara idea actually kaafi useful hai,Tumhara,URD
+Tumhara idea actually kaafi useful hai,idea,ENG
+Tumhara idea actually kaafi useful hai,actually,ENG
+Tumhara idea actually kaafi useful hai,kaafi,URD
+Tumhara idea actually kaafi useful hai,useful,ENG
+Tumhara idea actually kaafi useful hai,hai,URD
+Kal seminar attend karna zaroor,Kal,URD
+Kal seminar attend karna zaroor,seminar,ENG
+Kal seminar attend karna zaroor,attend,ENG
+Kal seminar attend karna zaroor,karna,URD
+Kal seminar attend karna zaroor,zaroor,URD
+Main room decorate kar raha hoon,Main,URD
+Main room decorate kar raha hoon,room,ENG
+Main room decorate kar raha hoon,decorate,ENG
+Main room decorate kar raha hoon,kar,URD
+Main room decorate kar raha hoon,raha,URD
+Main room decorate kar raha hoon,hoon,URD
+Aaj bohot relaxing day tha,Aaj,URD
+Aaj bohot relaxing day tha,bohot,URD
+Aaj bohot relaxing day tha,relaxing,ENG
+Aaj bohot relaxing day tha,day,ENG
+Aaj bohot relaxing day tha,tha,URD
+Tum mujhe update bhej dena,Tum,URD
+Tum mujhe update bhej dena,mujhe,URD
+Tum mujhe update bhej dena,update,ENG
+Tum mujhe update bhej dena,bhej,URD
+Tum mujhe update bhej dena,dena,URD
+Main assignment submit kar chuka hoon,Main,URD
+Main assignment submit kar chuka hoon,assignment,ENG
+Main assignment submit kar chuka hoon,submit,ENG
+Main assignment submit kar chuka hoon,kar,URD
+Main assignment submit kar chuka hoon,chuka,URD
+Main assignment submit kar chuka hoon,hoon,URD
+Kal weather cloudy tha but nice,Kal,URD
+Kal weather cloudy tha but nice,weather,ENG
+Kal weather cloudy tha but nice,cloudy,ENG
+Kal weather cloudy tha but nice,tha,URD
+Kal weather cloudy tha but nice,but,ENG
+Kal weather cloudy tha but nice,nice,ENG
+Yeh app bohot useful nikli,Yeh,URD
+Yeh app bohot useful nikli,app,ENG
+Yeh app bohot useful nikli,bohot,URD
+Yeh app bohot useful nikli,useful,ENG
+Yeh app bohot useful nikli,nikli,URD
+Main kal train se travel karunga,Main,URD
+Main kal train se travel karunga,kal,URD
+Main kal train se travel karunga,train,ENG
+Main kal train se travel karunga,se,URD
+Main kal train se travel karunga,travel,ENG
+Main kal train se travel karunga,karunga,URD
+Tum ready ho let's leave,Tum,URD
+Tum ready ho let's leave,ready,ENG
+Tum ready ho let's leave,ho,URD
+Tum ready ho let's leave,let's,ENG
+Tum ready ho let's leave,leave,ENG
+Aaj mera schedule bohot busy hai,Aaj,URD
+Aaj mera schedule bohot busy hai,mera,URD
+Aaj mera schedule bohot busy hai,schedule,ENG
+Aaj mera schedule bohot busy hai,bohot,URD
+Aaj mera schedule bohot busy hai,busy,ENG
+Aaj mera schedule bohot busy hai,hai,URD
+Kal mera schedule bohot tight hai,Kal,URD
+Kal mera schedule bohot tight hai,mera,URD
+Kal mera schedule bohot tight hai,schedule,ENG
+Kal mera schedule bohot tight hai,bohot,URD
+Kal mera schedule bohot tight hai,tight,ENG
+Kal mera schedule bohot tight hai,hai,URD
+Main office se jaldi nikal gaya,Main,URD
+Main office se jaldi nikal gaya,office,ENG
+Main office se jaldi nikal gaya,se,URD
+Main office se jaldi nikal gaya,jaldi,URD
+Main office se jaldi nikal gaya,nikal,URD
+Main office se jaldi nikal gaya,gaya,URD
+Please assignment upload kar do,Please,ENG
+Please assignment upload kar do,assignment,ENG
+Please assignment upload kar do,upload,ENG
+Please assignment upload kar do,kar,URD
+Please assignment upload kar do,do,URD
+Tumhara presentation really impressive tha,Tumhara,URD
+Tumhara presentation really impressive tha,presentation,ENG
+Tumhara presentation really impressive tha,really,ENG
+Tumhara presentation really impressive tha,impressive,ENG
+Tumhara presentation really impressive tha,tha,URD
+Aaj bohot productive meeting hui,Aaj,URD
+Aaj bohot productive meeting hui,bohot,URD
+Aaj bohot productive meeting hui,productive,ENG
+Aaj bohot productive meeting hui,meeting,ENG
+Aaj bohot productive meeting hui,hui,URD
+Main library mein assignment likh raha hoon,Main,URD
+Main library mein assignment likh raha hoon,library,ENG
+Main library mein assignment likh raha hoon,mein,URD
+Main library mein assignment likh raha hoon,assignment,ENG
+Main library mein assignment likh raha hoon,likh,URD
+Main library mein assignment likh raha hoon,raha,URD
+Main library mein assignment likh raha hoon,hoon,URD
+Kal exam ke liye best of luck,Kal,URD
+Kal exam ke liye best of luck,exam,ENG
+Kal exam ke liye best of luck,ke,URD
+Kal exam ke liye best of luck,liye,URD
+Kal exam ke liye best of luck,best,ENG
+Kal exam ke liye best of luck,of,ENG
+Kal exam ke liye best of luck,luck,ENG
+Yeh laptop bohot fast chal raha hai,Yeh,URD
+Yeh laptop bohot fast chal raha hai,laptop,ENG
+Yeh laptop bohot fast chal raha hai,bohot,URD
+Yeh laptop bohot fast chal raha hai,fast,ENG
+Yeh laptop bohot fast chal raha hai,chal,URD
+Yeh laptop bohot fast chal raha hai,raha,URD
+Yeh laptop bohot fast chal raha hai,hai,URD
+Main abhi online class attend kar raha hoon,Main,URD
+Main abhi online class attend kar raha hoon,abhi,URD
+Main abhi online class attend kar raha hoon,online,ENG
+Main abhi online class attend kar raha hoon,class,ENG
+Main abhi online class attend kar raha hoon,attend,ENG
+Main abhi online class attend kar raha hoon,kar,URD
+Main abhi online class attend kar raha hoon,raha,URD
+Main abhi online class attend kar raha hoon,hoon,URD
+Tum free ho after dinner,Tum,URD
+Tum free ho after dinner,free,ENG
+Tum free ho after dinner,ho,URD
+Tum free ho after dinner,after,ENG
+Tum free ho after dinner,dinner,ENG
+Kal office mein new project start hoga,Kal,URD
+Kal office mein new project start hoga,office,ENG
+Kal office mein new project start hoga,mein,URD
+Kal office mein new project start hoga,new,ENG
+Kal office mein new project start hoga,project,ENG
+Kal office mein new project start hoga,start,ENG
+Kal office mein new project start hoga,hoga,URD
+Mera internet connection ab theek hai,Mera,URD
+Mera internet connection ab theek hai,internet,ENG
+Mera internet connection ab theek hai,connection,ENG
+Mera internet connection ab theek hai,ab,URD
+Mera internet connection ab theek hai,theek,URD
+Mera internet connection ab theek hai,hai,URD
+Please mujhe document email kar dena,Please,ENG
+Please mujhe document email kar dena,mujhe,URD
+Please mujhe document email kar dena,document,ENG
+Please mujhe document email kar dena,email,ENG
+Please mujhe document email kar dena,kar,URD
+Please mujhe document email kar dena,dena,URD
+Aaj lunch bohot delicious tha,Aaj,URD
+Aaj lunch bohot delicious tha,lunch,ENG
+Aaj lunch bohot delicious tha,bohot,URD
+Aaj lunch bohot delicious tha,delicious,ENG
+Aaj lunch bohot delicious tha,tha,URD
+Main kal shopping karne jaunga,Main,URD
+Main kal shopping karne jaunga,kal,URD
+Main kal shopping karne jaunga,shopping,ENG
+Main kal shopping karne jaunga,karne,URD
+Main kal shopping karne jaunga,jaunga,URD
+Tumhara phone silent par tha,Tumhara,URD
+Tumhara phone silent par tha,phone,ENG
+Tumhara phone silent par tha,silent,ENG
+Tumhara phone silent par tha,par,URD
+Tumhara phone silent par tha,tha,URD
+Yeh movie dekhna totally worth it,Yeh,URD
+Yeh movie dekhna totally worth it,movie,ENG
+Yeh movie dekhna totally worth it,dekhna,URD
+Yeh movie dekhna totally worth it,totally,ENG
+Yeh movie dekhna totally worth it,worth,ENG
+Yeh movie dekhna totally worth it,it,ENG
+Main project complete karke submit karunga,Main,URD
+Main project complete karke submit karunga,project,ENG
+Main project complete karke submit karunga,complete,ENG
+Main project complete karke submit karunga,karke,URD
+Main project complete karke submit karunga,submit,ENG
+Main project complete karke submit karunga,karunga,URD
+Kal weather bohot pleasant tha,Kal,URD
+Kal weather bohot pleasant tha,weather,ENG
+Kal weather bohot pleasant tha,bohot,URD
+Kal weather bohot pleasant tha,pleasant,ENG
+Kal weather bohot pleasant tha,tha,URD
+Tum online kyun nahi aaye,Tum,URD
+Tum online kyun nahi aaye,online,ENG
+Tum online kyun nahi aaye,kyun,URD
+Tum online kyun nahi aaye,nahi,URD
+Tum online kyun nahi aaye,aaye,URD
+Main office ka work finish kar chuka hoon,Main,URD
+Main office ka work finish kar chuka hoon,office,ENG
+Main office ka work finish kar chuka hoon,ka,URD
+Main office ka work finish kar chuka hoon,work,ENG
+Main office ka work finish kar chuka hoon,finish,ENG
+Main office ka work finish kar chuka hoon,kar,URD
+Main office ka work finish kar chuka hoon,chuka,URD
+Main office ka work finish kar chuka hoon,hoon,URD
+Aaj lecture ka topic bohot interesting tha,Aaj,URD
+Aaj lecture ka topic bohot interesting tha,lecture,ENG
+Aaj lecture ka topic bohot interesting tha,ka,URD
+Aaj lecture ka topic bohot interesting tha,topic,ENG
+Aaj lecture ka topic bohot interesting tha,bohot,URD
+Aaj lecture ka topic bohot interesting tha,interesting,ENG
+Aaj lecture ka topic bohot interesting tha,tha,URD
+Please camera off kar do,Please,ENG
+Please camera off kar do,camera,ENG
+Please camera off kar do,off,ENG
+Please camera off kar do,kar,URD
+Please camera off kar do,do,URD
+Main ghar pohanch ke call karunga,Main,URD
+Main ghar pohanch ke call karunga,ghar,URD
+Main ghar pohanch ke call karunga,pohanch,URD
+Main ghar pohanch ke call karunga,ke,URD
+Main ghar pohanch ke call karunga,call,ENG
+Main ghar pohanch ke call karunga,karunga,URD
+Tumhara assignment almost complete hai,Tumhara,URD
+Tumhara assignment almost complete hai,assignment,ENG
+Tumhara assignment almost complete hai,almost,ENG
+Tumhara assignment almost complete hai,complete,ENG
+Tumhara assignment almost complete hai,hai,URD
+Kal seminar bohot informative tha,Kal,URD
+Kal seminar bohot informative tha,seminar,ENG
+Kal seminar bohot informative tha,bohot,URD
+Kal seminar bohot informative tha,informative,ENG
+Kal seminar bohot informative tha,tha,URD
+Main abhi breakfast kar raha hoon,Main,URD
+Main abhi breakfast kar raha hoon,abhi,URD
+Main abhi breakfast kar raha hoon,breakfast,ENG
+Main abhi breakfast kar raha hoon,kar,URD
+Main abhi breakfast kar raha hoon,raha,URD
+Main abhi breakfast kar raha hoon,hoon,URD
+Yeh application bohot useful hai,Yeh,URD
+Yeh application bohot useful hai,application,ENG
+Yeh application bohot useful hai,bohot,URD
+Yeh application bohot useful hai,useful,ENG
+Yeh application bohot useful hai,hai,URD
+Tum kal meeting join kar lena,Tum,URD
+Tum kal meeting join kar lena,kal,URD
+Tum kal meeting join kar lena,meeting,ENG
+Tum kal meeting join kar lena,join,ENG
+Tum kal meeting join kar lena,kar,URD
+Tum kal meeting join kar lena,lena,URD
+Aaj mera kaam finally complete ho gaya,Aaj,URD
+Aaj mera kaam finally complete ho gaya,mera,URD
+Aaj mera kaam finally complete ho gaya,kaam,URD
+Aaj mera kaam finally complete ho gaya,finally,ENG
+Aaj mera kaam finally complete ho gaya,complete,ENG
+Aaj mera kaam finally complete ho gaya,ho,URD
+Aaj mera kaam finally complete ho gaya,gaya,URD
+Main kal office se work from home karunga,Main,URD
+Main kal office se work from home karunga,kal,URD
+Main kal office se work from home karunga,office,ENG
+Main kal office se work from home karunga,se,URD
+Main kal office se work from home karunga,work,ENG
+Main kal office se work from home karunga,from,ENG
+Main kal office se work from home karunga,home,ENG
+Main kal office se work from home karunga,karunga,URD

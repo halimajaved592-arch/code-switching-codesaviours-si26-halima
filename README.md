@@ -1,33 +1,89 @@
-# code-switching-codesaviours-si26-halima
-Code Switching NLP | Code Saviours SI-26 | Halima Javed
-# Code Switching Dataset
+# Code Switching NLP | Code Saviours SI-26 | Halima Javed
 
-## Description
+This project focuses on **Roman Urdu-English code-switching detection and token-level language identification** using NLP and XLM-RoBERTa.
 
-This dataset was created as part of the **Code Saviours SI-26 Project 2**. It contains **150 Roman Urdu–English code-switching sentences**. Each sentence is split into individual words, and every word is labeled according to the language it belongs to. The dataset is intended for educational and research purposes in Natural Language Processing (NLP), especially for language identification and code-switching detection.
+The project was completed as part of the **Code Saviours SI-26 Machine Learning Internship – Project 2**.
 
-## Data Collection
+---
 
-The sentences were collected from publicly available online sources where Roman Urdu and English are commonly mixed in everyday communication. The dataset was then cleaned, organized, tokenized into words, and labeled manually.
+##  Live Demo
 
-## Labels
+Try the deployed Urdu-English Code-Switching Language Identifier:
 
-* **URD** – Roman Urdu word
-* **ENG** – English word
-* **MIX** – Mixed-language token (used when a single token contains both Roman Urdu and English)
+👉 https://halimajaved592-urdu-english-code-switching-demo.hf.space/?__theme=system&deep_link=ytlgO7yuLF4
+https://huggingface.co/spaces/halimajaved592/urdu-english-code-switching-demo
 
-## Dataset Information
+---
 
-* Total Sentences: **150**
-* Language: **Roman Urdu + English**
-* Format: **CSV**
-* Columns:
+##  Hugging Face Model
 
-  * `sentence` – Original mixed-language sentence
-  * `word` – Individual word/token
-  * `label` – Language label (URD, ENG, or MIX)
+The trained XLM-RoBERTa token classification model is available here:
 
-## Purpose
+👉  https://huggingface.co/halimajaved592/urdu-english-code-switching-xlm-roberta
 
-This dataset can be used for code-switching detection, token-level language identification, and other Natural Language Processing (NLP) tasks involving Roman Urdu and English text.
+---
 
+##  Project Overview
+
+The goal of this project is to identify language at the token level in Roman Urdu-English code-switched text.
+
+For example:
+
+**Input:**
+
+> Yaar kal presentation hai still not ready
+
+The model identifies:
+
+| Token | Language |
+|---|---|
+| Yaar | URD |
+| kal | URD |
+| presentation | ENG |
+| hai | URD |
+| still | ENG |
+| not | ENG |
+| ready | ENG |
+
+---
+
+##  Dataset
+
+The dataset was created as part of the **Code Saviour SI-26 Project 2**.
+
+It contains Roman Urdu-English sentences collected from publicly available sources where Roman Urdu and English are commonly mixed in everyday communication.
+
+The data was cleaned, organized, tokenized, and manually labeled.
+
+### Labels
+
+- **URD** – Roman Urdu word
+- **ENG** – English word
+- **MIX** – Mixed-language token
+
+### Dataset Information
+
+- **Total Sentences:** 199
+- **Total Token Rows:** 971
+- **Languages:** Roman Urdu + English
+- **Format:** CSV
+- **Task:** Token-level language identification
+
+### Dataset Columns
+
+- `sentence` – Original mixed-language sentence
+- `word` – Individual word/token
+- `label` – Language label (`URD`, `ENG`, or `MIX`)
+
+---
+
+##  Model
+
+The project uses **XLM-RoBERTa** for token-level language classification.
+
+### Label Mapping
+
+```text
+URD → 0
+ENG → 1
+MIX → 2

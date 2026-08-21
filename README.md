@@ -21,6 +21,8 @@ Try the deployed Urdu-English Code-Switching Language Identifier:
 https://huggingface.co/spaces/halimajaved592/urdu-english-code-switching-demo
 
 ---
+##Loom Link
+https://www.loom.com/share/7c8778a81c0441c7b85842053daed63e
 
 ##  Hugging Face Model
 
